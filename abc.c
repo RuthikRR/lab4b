@@ -1,1 +1,6 @@
 #include<stdio.h>
+iny main()
+{
+  printf("hello world")
+}
+
